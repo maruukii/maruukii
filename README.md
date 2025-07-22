@@ -27,7 +27,7 @@ TunisiePromoClient – a mobile app for managing product promotions
 👉 Let’s build something meaningful together!
 
   <p align="left">
-   <a href="https://www.linkedin.com/in/mohamed-hedi-magherbi/" target="_blank" rel="noopener noreferrer">
+   <a href="https://www.linkedin.com/in/mohamed-hedi-maghrebi/" target="_blank" rel="noopener noreferrer">
       <img alt="LinkedIn" title="Let's connect!!" 
            src="https://custom-icon-badges.demolab.com/badge/-Connect%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
    </a> 
