@@ -1,12 +1,30 @@
-# ![Dev](icons/coding.png) Mohamed hedi Magherbi
+# ![Dev](icons/coding.png) Mohamed hedi Maghrebi
 
-**`Full Stuck Developer`**
+**`Full Stack Developer | Software Engineer`**
 
-I am Mohamed Hedi Magherbi, a Software Engineering student specializing in Full Stack JavaScript development. With a solid foundation in technologies like React, Node.js, Express, and MongoDB, I design and build scalable, user-centric web applications. My portfolio includes diverse projects ranging from high-school management platforms to mobile apps for product promotions.
+👋 Hi, I’m Mohamed hedi Maghrebi, a Software Engineer specialized in Full Stack JavaScript and cross-platform application development.
 
-In addition to my technical expertise, I have hands-on experience through internships, where I developed e-learning platforms and banking system interfaces. I’m proficient in collaborative tools like Git and methodologies like Scrum, ensuring efficient teamwork and project execution. Constantly seeking to expand my skill set, I thrive in tackling challenges and delivering impactful solutions.
+🚀 I build scalable, user-focused solutions using technologies like React, Node.js, Express, MongoDB, TypeScript, and Java.
 
-Let's connect to create, innovate, and grow !!
+🧠 My portfolio highlights real-world projects including:
+
+BPMN-Proxym – a BPM Process Modeler built with Bpmn.js, Vite.js and React.js
+
+MySchool – school management platforms
+
+Maharati – a complete e-learning web platform
+
+ms-app-airport – a microservice-based airport flight management system
+
+TunisiePromoClient – a mobile app for managing product promotions
+
+💼 With hands-on experience from professional internships, I've contributed to banking system interfaces, educational platforms, and team-based Agile projects using Git, Scrum, and CI/CD practices.
+
+🧩 I’m passionate about clean architecture, collaborative development, and turning ideas into powerful software solutions.
+
+🔗 Check out my pinned projects above or visit my LinkedIn to connect and collaborate.
+
+👉 Let’s build something meaningful together!
 
   <p align="left">
    <a href="https://www.linkedin.com/in/mohamed-hedi-magherbi/" target="_blank" rel="noopener noreferrer">
