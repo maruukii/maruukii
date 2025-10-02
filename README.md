@@ -5,8 +5,11 @@
 👋 Full-Stack JavaScript Developer with a strong focus on TypeScript, a passion for React-based architecture, and a mindset for solving real-world problems
 
 🔧 Experienced in building scalable web applications using React (with Vite), Node.js, Express, Spring Boot, MongoDB, and MySQL
+
 🧠 Solid engineering background with hands-on work in API design, frontend architecture, and microservices
+
 🚀 Committed to clean code, performance, and effective problem-solving across the full stack
+
 
 🔗 Check out my pinned projects above or visit my LinkedIn to connect and collaborate.
 
@@ -62,4 +65,5 @@
 #
 
 [website]: https://maruukii-portfolio.netlify.app
+
 
