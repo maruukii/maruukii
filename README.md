@@ -1,26 +1,12 @@
-# ![Dev](icons/coding.png) Mohamed hedi Maghrebi
+# ![Dev](icons/coding.png) Mohamed hedi MAGHREBI
 
 **`Full Stack Developer | Software Engineer`**
 
-👋 Hi, I’m Mohamed hedi Maghrebi, a Software Engineer specialized in Full Stack JavaScript and cross-platform application development.
+👋 Full-Stack JavaScript Developer with a strong focus on TypeScript, a passion for React-based architecture, and a mindset for solving real-world problems
 
-🚀 I build scalable, user-focused solutions using technologies like React, Node.js, Express, MongoDB, TypeScript, and Java.
-
-🧠 My portfolio highlights real-world projects including:
-
-BPMN-Proxym – a BPM Process Modeler built with Bpmn.js, Vite.js and React.js
-
-MySchool – school management platforms
-
-Maharati – a complete e-learning web platform
-
-ms-app-airport – a microservice-based airport flight management system
-
-TunisiePromoClient – a mobile app for managing product promotions
-
-💼 With hands-on experience from professional internships, I've contributed to banking system interfaces, educational platforms, and team-based Agile projects using Git, Scrum, and CI/CD practices.
-
-🧩 I’m passionate about clean architecture, collaborative development, and turning ideas into powerful software solutions.
+🔧 Experienced in building scalable web applications using React (with Vite), Node.js, Express, Spring Boot, MongoDB, and MySQL
+🧠 Solid engineering background with hands-on work in API design, frontend architecture, and microservices
+🚀 Committed to clean code, performance, and effective problem-solving across the full stack
 
 🔗 Check out my pinned projects above or visit my LinkedIn to connect and collaborate.
 
@@ -76,3 +62,4 @@ TunisiePromoClient – a mobile app for managing product promotions
 #
 
 [website]: https://maruukii-portfolio.netlify.app
+
