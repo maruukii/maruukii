@@ -35,7 +35,7 @@
 ### 🧰 Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,javascript,typescript,react,nextjs,redux,nodejs,tailwindcss,mongodb,mysql,java,spring,csharp,aws,git,linux,html,css,php,cpp,github&perline=14" />
+    <img src="https://skillicons.dev/icons?i=vscode,javascript,typescript,react,vite,nextjs,redux,nodejs,tailwindcss,express,spring,mongodb,mysql,supabase,postman,php,java,selenium,gherkin,docker,aws,azure,linux,windows,git,github&perline=13" />
   </a>
 </p>
 
@@ -61,7 +61,7 @@
 <img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"/> -->
-<br />
+<!-- <br /> -->
 
 #
 
@@ -73,6 +73,7 @@
 #
 
 [website]: https://maruukii-portfolio.netlify.app
+
 
 
 
