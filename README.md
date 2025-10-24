@@ -1,6 +1,6 @@
 # ![Dev](icons/coding.png) Mohamed hedi Maghrebi
 
-**`Full Stack Developer | Software Engineer`**
+**`Full-Stack Software Engineer | Entrepreneur | Tech Enthousiast`**
 
 👋 Full-Stack Software Engineer with a passion for TypeScript, React, and building scalable, high-performance web applications. 
 
@@ -73,6 +73,7 @@
 #
 
 [website]: https://maruukii-portfolio.netlify.app
+
 
 
 
