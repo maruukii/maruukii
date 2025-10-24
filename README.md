@@ -1,8 +1,8 @@
-# ![Dev](icons/coding.png) Mohamed hedi MAGHREBI
+# ![Dev](icons/coding.png) Mohamed hedi Maghrebi
 
 **`Full Stack Developer | Software Engineer`**
 
-👋 Full-Stack JavaScript Developer with a strong focus on TypeScript, a passion for React-based architecture, and a mindset for solving real-world problems
+👋 Full-Stack Software Engineer with a passion for TypeScript, React, and building scalable, high-performance web applications. 
 
 🔧 Experienced in building scalable web applications using React (with Vite), Node.js, Express, Spring Boot, MongoDB, and MySQL
 
@@ -73,6 +73,7 @@
 #
 
 [website]: https://maruukii-portfolio.netlify.app
+
 
 
 
