@@ -20,8 +20,12 @@
       <img alt="LinkedIn" title="Let's connect!!" 
            src="https://custom-icon-badges.demolab.com/badge/-Connect%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
    </a> 
+    <a href="https://www.mohamedhedi-maghrebi.dev/" target="_blank" rel="noopener noreferrer">
+      <img alt="Portfolio" title="Visit my portfolio" 
+           src="https://custom-icon-badges.demolab.com/badge/-Portfolio-black?style=for-the-badge&logo=globe&logoColor=white&labelColor=555555"/>
+   </a> 
    <a href="https://github.com/maruukii?tab=followers" target="_blank" rel="noopener noreferrer">
-      <img alt="followers" title="Follow me on Github" 
+      <img alt="followers" title="Follow me on GitHub" 
            src="https://custom-icon-badges.demolab.com/github/followers/maruukii?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
    </a>
    <a href="https://github.com/maruukii?tab=repositories&sort=stargazers" target="_blank" rel="noopener noreferrer">
@@ -73,6 +77,7 @@
 #
 
 [website]: https://maruukii-portfolio.netlify.app
+
 
 
 
