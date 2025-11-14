@@ -39,7 +39,7 @@
 ### 🧰 Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,idea,javascript,typescript,java,react,vite,nextjs,redux,nodejs,tailwindcss,express,spring,mongodb,mysql,supabase,postman,php,selenium,gherkin,docker,aws,azure,linux,windows,notion,git,github&perline=14" />
+    <img src="https://skillicons.dev/icons?i=vscode,idea,javascript,typescript,java,react,vite,nextjs,redux,tailwindcss,nodejs,express,spring,mongodb,mysql,supabase,postman,php,selenium,gherkin,docker,aws,azure,linux,windows,notion,git,github&perline=14" />
   </a>
 </p>
 
@@ -77,6 +77,7 @@
 #
 
 [website]: https://maruukii-portfolio.netlify.app
+
 
 
 
