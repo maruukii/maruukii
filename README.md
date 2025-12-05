@@ -71,12 +71,13 @@
 
 ### 📊 Stats
 
-![Maruukii's GitHub stats](https://github-readme-stats.vercel.app/api?username=maruukii&show_icons=true&theme=dark)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maruukii&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Maruukii's GitHub stats](https://github-readme-stats.vercel.app/api?username=maruukii&show_icons=true&theme=radical)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maruukii&theme=radical&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 #
 
-[website]: https://maruukii-portfolio.netlify.app
+[website]: https://www.mohamedhedi-maghrebi.dev
+
 
 
 
