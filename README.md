@@ -1,17 +1,16 @@
-# ![Dev](icons/coding.png) Mohamed Hedi Maghrebi
+# ![Dev](icons/dev.png) Mohamed Hedi Maghrebi
 
 **`Full-Stack Software Engineer | Startup Co-Founder | Tech Enthousiast`**
 
-👋 Full-Stack Software Engineer with a passion for TypeScript, React, and building scalable, high-performance web applications. 
+👋 Full-Stack Software Engineer with a passion for TypeScript, React, and building scalable, high-performance web applications.
 
-🔧 Experienced in building scalable web applications using React (with Vite), Node.js, Express, Spring Boot, MongoDB, and MySQL
+🔧 Experienced in building scalable web applications using React.js (with Vite), Next.js, Node.js, Express, Spring Boot, MongoDB, and MySQL
 
 🧠 Solid engineering background with hands-on work in API design, frontend architecture, and microservices
 
 🚀 Committed to clean code, performance, and effective problem-solving across the full stack
 
-
-🔗 Check out my pinned projects above or visit my LinkedIn to connect and collaborate.
+🔗 Check out my pinned projects below or visit my LinkedIn and my Portfolio to connect and collaborate.
 
 👉 Let’s build something meaningful together!
 
@@ -20,7 +19,7 @@
       <img alt="LinkedIn" title="Let's connect!!" 
            src="https://custom-icon-badges.demolab.com/badge/-Connect%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
    </a> 
-    <a href="https://www.mohamedhedi-maghrebi.dev/" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.mohamedhedi-maghrebi.dev" target="_blank" rel="noopener noreferrer">
       <img alt="Portfolio" title="Visit my portfolio" 
            src="https://custom-icon-badges.demolab.com/badge/-Portfolio-black?style=for-the-badge&logo=globe&logoColor=white&labelColor=555555"/>
    </a> 
@@ -37,13 +36,12 @@
 ---
 
 ### 🧰 Languages and Tools
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,idea,javascript,typescript,java,react,vite,nextjs,redux,tailwindcss,nodejs,express,spring,mongodb,mysql,supabase,postman,php,selenium,gherkin,docker,aws,azure,linux,windows,notion,git,github&perline=14" />
   </a>
 </p>
-
-
 
 <!-- <img align="left" alt="VisualStudio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -77,17 +75,3 @@
 #
 
 [website]: https://www.mohamedhedi-maghrebi.dev
-
-
-
-
-
-
-
-
-
-
-
-
-
-
