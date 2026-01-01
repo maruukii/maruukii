@@ -1,4 +1,4 @@
-# ![Dev](icons/dev.png) Mohamed Hedi Maghrebi
+# ![Dev](icons/mini-dev.png) Mohamed Hedi Maghrebi
 
 **`Full-Stack Software Engineer | Startup Co-Founder | Tech Enthousiast`**
 
