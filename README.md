@@ -1,4 +1,10 @@
-## ![Dev](icons/mini-dev.png) Mohamed Hedi Maghrebi ![Dev](icons/mini-dev.png)
+<div align="center">
+
+# Hi 👋, I'm Mohamed Hedi Maghrebi 
+
+</div>
+<!---
+![Dev](icons/dev.png)-->
 
 **`Full-Stack Software Engineer | Startup Co-Founder | Tech Enthousiast`**
 
@@ -73,6 +79,7 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maruukii&theme=radical&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [website]: https://www.mohamedhedi-maghrebi.dev
+
 
 
 
