@@ -20,11 +20,11 @@
 
 👉 Let’s build something meaningful together!
 
-  <p align="left">
+  <div align="center">
    <a href="https://www.linkedin.com/in/mohamed-hedi-maghrebi/" target="_blank" rel="noopener noreferrer">
       <img alt="LinkedIn" title="Let's connect!!" 
            src="https://custom-icon-badges.demolab.com/badge/-Connect%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
-   </a> 
+   </a>
     <a href="https://www.mohamedhedi-maghrebi.dev" target="_blank" rel="noopener noreferrer">
       <img alt="Portfolio" title="Visit my portfolio" 
            src="https://custom-icon-badges.demolab.com/badge/-Portfolio-black?style=for-the-badge&logo=globe&logoColor=white&labelColor=555555"/>
@@ -37,7 +37,7 @@
       <img alt="total stars" title="Total stars on GitHub" 
            src="https://custom-icon-badges.demolab.com/github/stars/maruukii?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
    </a>
-</p>
+</div>
 
 ---
 
