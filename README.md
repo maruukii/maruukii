@@ -29,10 +29,10 @@
       <img alt="Portfolio" title="Visit my portfolio" 
            src="https://custom-icon-badges.demolab.com/badge/-Portfolio-black?style=for-the-badge&logo=globe&logoColor=white&labelColor=555555"/>
    </a> 
-   <!-- <a href="https://github.com/maruukii?tab=followers" target="_blank" rel="noopener noreferrer">
+   <a href="https://github.com/maruukii?tab=followers" target="_blank" rel="noopener noreferrer">
       <img alt="followers" title="Follow me on GitHub" 
            src="https://custom-icon-badges.demolab.com/github/followers/maruukii?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-   </a> -->
+   </a>
    <a href="https://github.com/maruukii?tab=repositories&sort=stargazers" target="_blank" rel="noopener noreferrer">
       <img alt="total stars" title="Total stars on GitHub" 
            src="https://custom-icon-badges.demolab.com/github/stars/maruukii?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
@@ -72,11 +72,10 @@
 <!-- <br /> -->
 
 #
-<!--
 ### 📊 Stats
 
-![Maruukii's GitHub stats](https://github-readme-stats.vercel.app/api?username=maruukii&show_icons=true&theme=radical)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maruukii&theme=radical&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=maruukii&show_icons=true&theme=radical)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maruukii&theme=radical&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://www.mohamedhedi-maghrebi.dev
 
