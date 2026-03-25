@@ -8,13 +8,18 @@
 
 **`Full-Stack Software Engineer | Startup Co-Founder | Tech Enthousiast`**
 
-👋 Full-Stack Software Engineer with a passion for TypeScript, React, and building scalable, high-performance web applications.
+<!---👋 Full-Stack Software Engineer with a passion for TypeScript, React, and building scalable, high-performance web applications.
 
 🔧 Experienced in building scalable web applications using React.js (with Vite), Next.js, Node.js, Express, Spring Boot, MongoDB, and MySQL
 
 🧠 Solid engineering background with hands-on work in API design, frontend architecture, and microservices
 
-🚀 Committed to clean code, performance, and effective problem-solving across the full stack
+🚀 Committed to clean code, performance, and effective problem-solving across the full stack -->
+I’m a full-stack engineer who enjoys building and improving web applications through strong problem solving. 
+
+I’m comfortable across the stack, with a growing interest in frontend work, while feeling especially confident and efficient on the backend. 
+
+I’m always looking to learn, gain experience, and contribute to building useful, well-designed products
 
 🔗 Check out my pinned projects below or visit my LinkedIn and my Portfolio to connect and collaborate.
 
