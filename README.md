@@ -30,8 +30,6 @@ I’m always looking to learn, gain experience, and contribute to building usefu
 <div align="center">
   
 ![Stats Card](https://octometrics.vercel.app/api/stats?username=maruukii&theme=tokyonight&credit=true&credit_text=maruukii)
-![GitHub Streak](https://octometrics.vercel.app/api/streak?username=maruukii&theme=tokyonight)
-
 
 </div>
   <div align="center">
@@ -92,6 +90,8 @@ I’m always looking to learn, gain experience, and contribute to building usefu
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=maruukii&show_icons=true&theme=radical)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maruukii&theme=radical&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub Streak](https://octometrics.vercel.app/api/streak?username=maruukii&theme=tokyonight)
 
 </div>
 
