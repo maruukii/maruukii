@@ -1,9 +1,10 @@
 <div align="center">
 
-# Hi 👋, I'm Mohamed Hedi Maghrebi 
+<!--# Hi 👋, I'm Mohamed Hedi Maghrebi--> 
+![Banner](https://octometrics.vercel.app/api/banner?name=Mohamed%20Hedi%20Maghrebi&title=Full%20Stack%20Software%20Engineer&subtitle=%40maruukii&tech=React%2CTS%2CNext&location=Everywhere&pattern=grid&wave=true&align=center&theme=dracula)
+
 
 </div>
-
 
 <!---
 ![Dev](icons/dev.png)-->
@@ -45,19 +46,43 @@ I’m always looking to learn, gain experience, and contribute to building usefu
       <img alt="followers" title="Follow me on GitHub" 
            src="https://custom-icon-badges.demolab.com/github/followers/maruukii?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
    </a>
-   <a href="https://github.com/maruukii?tab=repositories&sort=stargazers" target="_blank" rel="noopener noreferrer">
+   <!-- <a href="https://github.com/maruukii?tab=repositories&sort=stargazers" target="_blank" rel="noopener noreferrer">
       <img alt="total stars" title="Total stars on GitHub" 
            src="https://custom-icon-badges.demolab.com/github/stars/maruukii?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
-   </a>
+   </a> -->
 </div>
 
 ---
 
-### 🧰 Languages and Tools
+## 💻 Languages & Core Technologies
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,idea,javascript,typescript,java,react,vite,nextjs,redux,tailwindcss,nodejs,express,spring,mongodb,mysql,supabase,postman,php,selenium,gherkin,docker,aws,azure,linux,windows,notion,git,github&perline=14" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,java&perline=10" />
+  </a>
+</p>
+
+## 🎨 Frontend Development
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,vite,nextjs,redux,tailwindcss&perline=10" />
+  </a>
+</p>
+
+## ⚙️ Backend, Databases & Cloud
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,mysql,supabase,docker,aws&perline=10" />
+  </a>
+</p>
+
+## 🛠️ Tools & Platforms
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,idea,postman,selenium,gherkin,linux,windows,git,github,notion&perline=10" />
   </a>
 </p>
 
@@ -91,7 +116,7 @@ I’m always looking to learn, gain experience, and contribute to building usefu
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=maruukii&show_icons=true&theme=radical)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maruukii&theme=radical&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Streak](https://octometrics.vercel.app/api/streak?username=maruukii&theme=tokyonight)
+<!-- ![GitHub Streak](https://octometrics.vercel.app/api/streak?username=maruukii&theme=tokyonight)-->
 
 </div>
 
