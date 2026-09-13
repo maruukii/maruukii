@@ -108,7 +108,7 @@ I’m always looking to learn, gain experience, and contribute to building usefu
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"/> -->
 <!-- <br /> -->
 
-#
+<!--#
 ### 📊 Stats
 
 <div align="center">
@@ -118,7 +118,7 @@ I’m always looking to learn, gain experience, and contribute to building usefu
 
 <!-- ![GitHub Streak](https://octometrics.vercel.app/api/streak?username=maruukii&theme=tokyonight)-->
 
-</div>
+<!--</div>-->
 
 [website]: https://www.mohamedhedi-maghrebi.dev
 
