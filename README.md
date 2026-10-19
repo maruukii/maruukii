@@ -38,7 +38,7 @@ I’m always looking to learn, gain experience, and contribute to building usefu
       <img alt="LinkedIn" title="Let's connect!!" 
            src="https://custom-icon-badges.demolab.com/badge/-Connect%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
    </a>
-    <a href="https://www.mohamedhedi-maghrebi.dev" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.mohamedhedi-maghrebi.tech" target="_blank" rel="noopener noreferrer">
       <img alt="Portfolio" title="Visit my portfolio" 
            src="https://custom-icon-badges.demolab.com/badge/-Portfolio-black?style=for-the-badge&logo=globe&logoColor=white&labelColor=555555"/>
    </a> 
@@ -120,7 +120,7 @@ I’m always looking to learn, gain experience, and contribute to building usefu
 
 </div>
 
-<!--[website]: https://www.mohamedhedi-maghrebi.dev-->
+<!--[website]: https://www.mohamedhedi-maghrebi.tech-->
 
 
 
